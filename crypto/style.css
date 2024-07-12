@@ -743,6 +743,12 @@ a:hover {
 //--//-->   COUNTER
 ======================================*/
 
+.construct{
+  background-color: #fff;
+  position: relative;
+  padding: 2.5rem 1.3rem;
+}
+
 .counter-box {
   color: #fff;
   text-align: center;
